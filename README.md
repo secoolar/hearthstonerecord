@@ -1,0 +1,2 @@
+# hearthstonerecord
+just for fun
